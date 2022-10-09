@@ -1,0 +1,21 @@
+.fundo {background-color:black;}
+
+
+.titulo {color: orange;
+text-align: center;
+font-size: 50px;
+font-family: 'Times New Roman';
+}
+.paragrafo {color: white;
+    text-align: justify;
+    font-size: 25px;
+    font-family: 'Times New Roman'
+
+}
+.links {
+    color: orange;
+    text-align: left;
+    font-size: 50px;
+    font-family: 'Times New Roman'
+
+}
